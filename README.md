@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Udyan Singh** <img src="https://media.giphy.com/media/d3sE6FcNZa7Ju/giphy.gif" width="400" align="right"/>
+- :credit_card: My full name is **Udyan Singh** <img src="https://media.giphy.com/media/d3sE6FcNZa7Ju/giphy.gif" width="300" align="right"/>
 - :school: I'm currently the last year student at **Vishwakarma Government Engineering College**
 - :books: My major is **Computer Engineering**
 - :earth_asia: I'm living now in **Ahmedabad City, India**

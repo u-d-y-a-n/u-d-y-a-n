@@ -1,7 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="Udyan Singh | Count Views" src="https://enhabviplnjtofy.m.pipedream.net" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings!+I'm+Udyan.;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Udyan Singh** <img src="https://media.giphy.com/media/d3sE6FcNZa7Ju/giphy.gif" width="300" align="right"/>

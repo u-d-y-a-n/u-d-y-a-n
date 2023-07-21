@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="Udyan Singh | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Udyansingh?style=social"> &nbsp;&nbsp; <img alt="Udyan Singh | Count Views" src="https://enhabviplnjtofy.m.pipedream.net" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings!+I'm+Udyan.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 

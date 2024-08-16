@@ -24,7 +24,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=u-d-y-a-n&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Udyansingh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=u-d-y-a-n&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">

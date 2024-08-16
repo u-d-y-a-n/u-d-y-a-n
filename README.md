@@ -21,7 +21,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=u-d-y-a-n&layout=compact&show_icon=true&theme=algolia" alt="Udyan Singh-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Udyansingh&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=u-d-y-a-n&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Udyansingh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
